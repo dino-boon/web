@@ -13,3 +13,11 @@ p {
     font-family:  "Monaco", monospace;
     font-size: 20px;
 }
+
+form,
+label,
+input,
+textarea,
+button {
+    color: white;
+}
