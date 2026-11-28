@@ -17,3 +17,18 @@ p {
 label {
     color: white;
 }
+
+
+h2 {
+    color: white;
+}
+
+nav {
+    padding: 0 15px;
+    height: 60px;
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
