@@ -5,6 +5,7 @@ body {
 h1 {
     color: white;
     text-align: center;
+    font-family: var(--body-font);
 }
 
 p {
@@ -21,6 +22,8 @@ label {
 
 h2 {
     color: white;
+    text-align: center;
+    font-family: var(--body-font);
 }
 
 nav {
@@ -31,6 +34,7 @@ nav {
     justify-content: center;
     align-items: center;
     background-color: white;
+    font-family: var(--body-font);
 }
 
 .nav-items {
