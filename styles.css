@@ -34,8 +34,10 @@ nav {
 }
 
 .nav-items {
+    color: red;
   display: flex;
   gap: 100px;
+    
 }
 
 
@@ -45,3 +47,7 @@ nav {
   transition: .4s ease-in-out;
 }
 
+
+.nav-items .active {
+  color: white;
+  pointer-events: none;
